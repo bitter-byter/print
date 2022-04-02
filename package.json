@@ -11,5 +11,10 @@
     "js-print"
   ],
   "author": "BitterByter",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitter-byter/print.git"
+  },
+  "homepage": "https://github.com/bitter-byter/print#readme"
 }
