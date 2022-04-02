@@ -1,6 +1,6 @@
 {
   "name": "@bitterbyter/print",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Print function for JavaScript",
   "main": "index.js",
   "scripts": {
