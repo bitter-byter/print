@@ -2,7 +2,7 @@
 
 Print function for JavaScript
 
-<hr />
+<br />
 
 ### Usage
 
@@ -12,7 +12,7 @@ const print = require("@bitterbyter/print");
 print(<data>, <type>);
 ```
 
-<hr />
+<br />
 
 #### Examples
 
@@ -34,7 +34,7 @@ let x = 0;
 print(`Value of x is ${x}`, "debug");
 ```
 
-<hr />
+<br />
 
 #### Types
 
@@ -48,4 +48,4 @@ print(`Value of x is ${x}`, "debug");
 - `table`
 - `warn`
 
-> Not sepcifying any type, defaults to `log`.
+> Not specifying any type, defaults to `log`.
